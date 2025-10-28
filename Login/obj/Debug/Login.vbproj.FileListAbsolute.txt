@@ -1,0 +1,16 @@
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.vbproj.AssemblyReference.cache
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.login.resources
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.admin.resources
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.Resources.resources
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.vbproj.GenerateResource.cache
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.vbproj.CoreCompileInputs.cache
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Interop.ADODB.dll
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.vbproj.ResolveComReference.cache
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\bin\Debug\Login.exe.config
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\bin\Debug\Login.exe
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\bin\Debug\Login.pdb
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\bin\Debug\Login.xml
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.exe
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.xml
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.pdb
+D:\Fatec_Ingrid\2_semestre\Sistema da Informação\Acess\Login\obj\Debug\Login.exe.config
